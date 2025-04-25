@@ -128,6 +128,8 @@ Todos os arquivos devem conter cabeçalhos com data, nome e matrícula, e uma br
 ---
 
 ## Prazo de Entrega e Apresentações
-```
-A data de entrega e apresentações está definida para o período de **22/05** a **29/05**. Recomendo que concluam suas tarefas o mais cedo possível para evitar imprevistos de última hora.
-```
+
+A data de entrega e apresentações está definida para o período de 
+**22/05** a **29/05**. 
+Recomendo que concluam suas tarefas o mais cedo possível para evitar imprevistos de última hora.
+
