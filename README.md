@@ -133,3 +133,11 @@ A data de entrega e apresentações está definida para o período de
 **22/05** a **29/05**. 
 Recomendo que concluam suas tarefas o mais cedo possível para evitar imprevistos de última hora.
 
+## **Política de Integridade Acadêmica:**
+
+- Trabalhos entregues **sem entendimento claro do aluno** poderão ser anulados mediante questionamento.
+- Projetos **copiados de outros colegas** ou **plagiados da internet** serão **zerados**.
+- **Geração automática** de código via IA sem adaptação, entendimento e explicação **também poderá ser desconsiderada**.
+- **Reaproveitamento de trabalhos anteriores** sem aviso e sem adaptação para o contexto atual também será zerado.
+- O objetivo é **avaliar seu aprendizado real** sobre os temas estudados.
+
