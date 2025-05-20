@@ -146,5 +146,5 @@ Recomendo que concluam suas tarefas o mais cedo possível para evitar imprevisto
 
 [Jean Caetano](https://github.com/pomptrash/consumo-api-yugioh-react)
 
-[joao paulo](https://github.com/Jeancaetano12/Desafio-front-end)
+[Joao Paulo](https://github.com/Jeancaetano12/Desafio-front-end)
 
