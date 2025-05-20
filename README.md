@@ -141,3 +141,10 @@ Recomendo que concluam suas tarefas o mais cedo possível para evitar imprevisto
 - **Reaproveitamento de trabalhos anteriores** sem aviso e sem adaptação para o contexto atual também será zerado.
 - O objetivo é **avaliar seu aprendizado real** sobre os temas estudados.
 
+
+## Entrgas :
+
+[Jean Caetano](https://github.com/pomptrash/consumo-api-yugioh-react)
+
+[joao paulo](https://github.com/Jeancaetano12/Desafio-front-end)
+
